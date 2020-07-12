@@ -6,9 +6,10 @@
  */
 
  /* FONTS FOR THE CODE - will fall back to monospace if unavailable */
-
+/*
 @import url('https://fontlibrary.org/face/roboto-mono');
 @import url('https://fontlibrary.org/face/inconsolata');
+*/
 
 /* MAKES MAIN TEXT SECTION LARGER */
 .content:not(.custom) {
