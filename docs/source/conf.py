@@ -161,3 +161,4 @@ texinfo_documents = [
 
 
 # -- Extension configuration -------------------------------------------------
+html_add_permalinks = " "
